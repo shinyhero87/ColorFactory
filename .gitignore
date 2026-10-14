@@ -1,0 +1,17 @@
+# Compiled output
+*.class
+/bin/
+/build/
+/target/
+/out/
+
+# Local workspace and editor state
+.metadata/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.env
+.env.*
